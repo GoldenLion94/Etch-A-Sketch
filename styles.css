@@ -1,5 +1,13 @@
 h1 {
-  color: red;
+  color: black;
+  background-color: skyblue;
+  border: solid black;
+}
+
+h3 {
+  color: black;
+  background-color: skyblue;
+  border: solid black;
 }
 body {
   display: flex;
@@ -30,5 +38,29 @@ body {
   width: 500px;
   height: 500px;
   display: grid;
+  border: solid black;
+}
+
+.btn-random {
+  background: palegoldenrod;
+  border: solid peru;
+  color: palevioletred;
+}
+
+.btn-black {
+  background-color: black;
+  color: white;
+  border: solid black;
+}
+
+.btn-select {
+  color: black;
+  background-color: skyblue;
+  border: solid black;
+}
+
+.btn-reset {
+  color: black;
+  background-color: skyblue;
   border: solid black;
 }
